@@ -1,2 +1,3 @@
 # hello-world
-Writing about myself
+Writing a bit about myself
+
